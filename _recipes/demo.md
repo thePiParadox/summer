@@ -1,23 +1,8 @@
 ---
-title: 'Easy strawberry ice cream'
-ref: strawberry-ice-cream
-image: true
-time: 30
-category: snacks
-tags: [sweet, cold]
-ingredients:
-  - name: punnet strawberries
-    amount: 400
-    unit: g
-  - name: tub mascarpone
-    amount: 250
-    unit: g
-  - name: can condensed milk
-    amount: 200
-    unit: g
-  - name: cones and sprinkles, to serve
-    amount:
-    unit:
+title: 'Blog Title'
+ref: keywords-related-to-blog
+category: calculus
+tags: [integration]
 ---
 
 Children aged 3-6 can enjoy getting stuck in to making and eating this summery treat. Add your own toppings for extra fun.

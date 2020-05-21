@@ -1,6 +1,6 @@
 ---
 title: Blog Title
-ref: blog-title
+ref: blog-title.png
 image: true
 time: 2
 category: calculus

@@ -1,6 +1,6 @@
 ---
 title: 'Blog Title'
-ref: BG
+ref: salmon-burger
 category: calculus
 tags: [integration, calculus]
 image: true

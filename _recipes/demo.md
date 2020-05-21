@@ -1,6 +1,6 @@
 ---
 title: 'Blog Title'
-ref: salmon-burger
+ref: blog-title
 image: true
 category: calculus
 time: 2

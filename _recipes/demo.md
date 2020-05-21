@@ -1,6 +1,6 @@
 ---
 title: 'Blog Title'
-ref: bg
+ref: BG
 category: calculus
 tags: [integration, calculus]
 image: true

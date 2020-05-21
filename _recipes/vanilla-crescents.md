@@ -1,45 +1,13 @@
 ---
-title: Austrian vanilla crescents
-ref: vanilla-crescents
+title: Blog Title
+ref: blog-title
 image: true
-time: 60
-category: snacks
+time: 2
+category: calculus
 tags:
-  - cookies
-  - sweet
-  - christmas
-  - vegetarian
-ingredients:
-  - name: all purpose flour
-    amount: 250
-    unit: g
-  - name: unsalted butter
-    amount: 200
-    unit: g
-  - name: finely ground almonds
-    amount: 100
-    unit: g
-  - name: large egg yolks
-    amount: 2
-    unit: null
-  - name: vanilla extract
-    amount: 1 1/4
-    unit: tsp
-  - name: milk
-    amount: 1
-    unit: tbsp
-  - name: powdered sugar
-    amount: 70
-    unit: g
-  - name: pinch of salt
-    amount: null
-    unit: null
-  - name: icing sugar
-    amount: 100
-    unit: g
-  - name: vanilla sugar
-    amount: 2
-    unit: packages
+  - integration
+  - functions
+  - maths
 ---
 
 <figure>

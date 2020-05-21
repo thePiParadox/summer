@@ -1,8 +1,9 @@
 ---
 title: 'Blog Title'
-ref: keywords-related-to-blog
+ref: blog-title
 category: calculus
-tags: [integration]
+tags: [integration, calculus]
+image: true
 ---
 
 Children aged 3-6 can enjoy getting stuck in to making and eating this summery treat. Add your own toppings for extra fun.

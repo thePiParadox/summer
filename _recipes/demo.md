@@ -1,10 +1,10 @@
 ---
 title: 'Blog Title'
 ref: salmon-burger
-category: calculus
-tags: [integration, calculus]
 image: true
+category: calculus
 time: 2
+tags: [integration, calculus]
 ---
 
 Children aged 3-6 can enjoy getting stuck in to making and eating this summery treat. Add your own toppings for extra fun.
